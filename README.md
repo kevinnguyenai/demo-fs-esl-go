@@ -4,7 +4,7 @@
 [![forks](https://img.shields.io/github/forks/kevinnguyenai/demo-fs-esl-go)](https://github.com/kevinnguyenai/demo-fs-esl-go/network/members)
 [![stars](https://img.shields.io/github/stars/kevinnguyenai/demo-fs-esl-go)](https://github.com/kevinnguyenai/demo-fs-esl-go/stargazers)
 [![license](https://img.shields.io/github/license/kevinnguyenai/demo-fs-esl-go)](https://github.com/kevinnguyenai/demo-fs-esl-go/tree/master/LICENSE)
-[![CodeFactor](https://www.codefactor.io/repository/github/kevinnguyenai/demo-fs-esl-go/overview/master)](https://www.codefactor.io/repository/github/kevinnguyenai/demo-fs-esl-go/overview/master)
+[![CodeFactor](https://www.codefactor.io/repository/github/kevinnguyenai/demo-fs-esl-go/badge)](https://www.codefactor.io/repository/github/kevinnguyenai/demo-fs-esl-go)
 
 Example structure to start a microservices project with golang. Using a MySQL databaseSQL.
 
