@@ -1,10 +1,10 @@
 # Golang Microservices Boilerplate
 
-[![issues](https://img.shields.io/github/issues/gbrayhan/microservices-go)](https://github.com/gbrayhan/microservices-go/tree/master/.github/ISSUE_TEMPLATE)
-[![forks](https://img.shields.io/github/forks/gbrayhan/microservices-go)](https://github.com/gbrayhan/microservices-go/network/members)
-[![stars](https://img.shields.io/github/stars/gbrayhan/microservices-go)](https://github.com/gbrayhan/microservices-go/stargazers)
-[![license](https://img.shields.io/github/license/gbrayhan/microservices-go)](https://github.com/gbrayhan/microservices-go/tree/master/LICENSE)
-[![CodeFactor](https://www.codefactor.io/repository/github/gbrayhan/microservices-go/badge/master)](https://www.codefactor.io/repository/github/gbrayhan/microservices-go/overview/master)
+[![issues](https://img.shields.io/github/issues/kevinnguyenai/demo-fs-esl-go)](https://github.com/kevinnguyenai/demo-fs-esl-go/tree/master/.github/ISSUE_TEMPLATE)
+[![forks](https://img.shields.io/github/forks/kevinnguyenai/demo-fs-esl-go)](https://github.com/kevinnguyenai/demo-fs-esl-go/network/members)
+[![stars](https://img.shields.io/github/stars/kevinnguyenai/demo-fs-esl-go)](https://github.com/kevinnguyenai/demo-fs-esl-go/stargazers)
+[![license](https://img.shields.io/github/license/kevinnguyenai/demo-fs-esl-go)](https://github.com/kevinnguyenai/demo-fs-esl-go/tree/master/LICENSE)
+[![CodeFactor](https://www.codefactor.io/repository/github/kevinnguyenai/demo-fs-esl-go/overview/master)](https://www.codefactor.io/repository/github/kevinnguyenai/demo-fs-esl-go/overview/master)
 
 Example structure to start a microservices project with golang. Using a MySQL databaseSQL.
 
@@ -35,14 +35,15 @@ cp config.json.example config.json
 
 ## Table of Contents
 
-- [Features](#features)
-- [Commands](#commands)
-- [Environment Variables](#environment-variables)
-- [Project Structure](#project-structure)
-- [API Documentation](#api-documentation)
-- [Error Handling](#error-handling)
-- [Validation](#validation)
-- [Linting](#linting)
+- [Golang Microservices Boilerplate](#golang-microservices-boilerplate)
+  - [Manual Installation](#manual-installation)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Commands](#commands)
+    - [Build and run image of docker](#build-and-run-image-of-docker)
+    - [Swagger Implementation](#swagger-implementation)
+    - [Unit test command](#unit-test-command)
+    - [Lint inspection of go](#lint-inspection-of-go)
 
 ## Features
 
